@@ -1,1 +1,1 @@
-# Hadej-Cislo-React-Native
+# Zde naleznete hlavní soubor aplikace Hádej číslo
